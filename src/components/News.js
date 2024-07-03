@@ -112,7 +112,7 @@ const News = (props)=>{
 News.defaultProps = {
   country: "in",
   pageSize: 5,
-  category: "science",
+  category: "general",
 };
 News.propTypes = {
   country: PropTypes.string,
